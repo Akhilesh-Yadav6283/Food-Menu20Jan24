@@ -16,13 +16,7 @@ body {
     color: white;
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
-    justify-content: space-evenly;
-    /* height: 100vh; */
-    height: 500px;
-
-    margin-top: 70px;
-    
+    height: 850px;
 }
 
 .left-window img {
@@ -86,6 +80,9 @@ ol a {
     gap: 20px;
     color: white;
     position: relative;
+    /* left: 250px; */
+    height: 850px;
+    border: 1px solid blue;
 }
 
 .nav {
